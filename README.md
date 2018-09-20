@@ -16,7 +16,7 @@ Um sistema básico de registro de frequências em uma aula.
 O arquivo frequencia.json contém as frequências para o dia atual.
 Formato: 
 
-'''
+```
 {
   "20_09_2018": {
     "data": [
@@ -43,4 +43,4 @@ Formato:
     ]
   }
 }
-'''
+```
