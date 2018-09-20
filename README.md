@@ -1,7 +1,7 @@
 # Registrador de frequências
 Um sistema básico de registro de frequências em uma aula.
 
-##Pré-requisitos
+## Pré-requisitos
 * PHP7
 * Apache
 
