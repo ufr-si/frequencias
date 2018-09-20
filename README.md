@@ -46,7 +46,7 @@ Formato:
 ```
 
 ## Arquivo roster.json
-Contém a lista de alunos.
+Contém a lista de alunos, formato <id>:<nome_aluno>
 ```
 {
   "cod_disciplina":"SO20181",
