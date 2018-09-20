@@ -1,0 +1,60 @@
+@font-face {
+    src: url('/fonts/Lato/Lato-Bold.ttf');
+    font-family: "Lato-Bold";
+}
+
+@font-face {
+    src: url('/fonts/Lato/Lato-Regular.ttf');
+    font-family: "Lato-Regular";
+}
+
+*{
+    font-family: "Lato-Bold";
+    font-variant-caps: small-caps;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+
+body{
+    background-color: #accbff;
+}
+
+h1{
+    text-align:center;
+    font-size:6em;
+    font-family: Lato-Bold, sans-serif;
+}
+
+input[type="text"]{
+    width:100%;
+    font-size:2em;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border:2px solid black;
+}
+
+
+input[type="submit"]{
+    margin-top:5px;
+    /*border: 1px  solid;*/
+    background-color: rgb(7,107,255);
+    width:101%;
+    height:60px;
+    font-size:2em;
+    margin-right: 0px;
+    border-radius: 4px;
+    font-weight: 100;
+    font-family: Lato-Regular,sans-serif;
+}
+
+span{
+    font-size:2em;
+    color: midnightblue;
+
+}

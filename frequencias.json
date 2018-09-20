@@ -1,0 +1,26 @@
+{
+  "20_09_2018": {
+    "data": [
+      {
+        "rga": 1,
+        "nome": "Exemplo1",
+        "frequencia": "F"
+      },
+      {
+        "rga": 2,
+        "nome": "Exemplo2",
+        "frequencia": "F"
+      },
+      {
+        "rga": 3,
+        "nome": "Exemplo3",
+        "frequencia": "F"
+      },
+      {
+        "rga": 4,
+        "nome": "Exemplo 4",
+        "frequencia": "F"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cod_disciplina":"SO20181",
+  "nome_disciplna":"Sistemas Operacionais",
+  "data":{
+      "1" : "Exemplo1",
+      "2" : "Exemplo2",
+      "3" : "Exemplo 3",
+      "4" : "Exemplo 4"
+      }
+}
