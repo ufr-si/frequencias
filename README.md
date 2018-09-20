@@ -6,13 +6,13 @@ Um sistema básico de registro de frequências em uma aula.
 ** PHP7
 ** Apache
 
-** Como usar
+## Como usar
 1. Suba o servidor
 2. Acesse o endereço do seu servidor (http://<ip>)
 3. Para adicionar uma frequência, basta usar um dos IDs cadastrado em roster.json
 4. Para acessar a lista de frequências, acesse lista_frequencias.php
 
-** Arquivo frequencia.json
+## Arquivo frequencia.json
 O arquivo frequencia.json contém as frequências para o dia atual.
 Formato: 
 
@@ -44,3 +44,17 @@ Formato:
   }
 }
 ```
+
+## Arquivo roster.json
+```
+{
+  "cod_disciplina":"SO20181",
+  "nome_disciplna":"Sistemas Operacionais",
+  "data":{
+      "1" : "Exemplo1",
+      "2" : "Exemplo2",
+      "3" : "Exemplo 3",
+      "4" : "Exemplo 4"
+      }
+}
+``
