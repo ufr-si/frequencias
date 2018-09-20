@@ -46,6 +46,7 @@ Formato:
 ```
 
 ## Arquivo roster.json
+Contém a lista de alunos.
 ```
 {
   "cod_disciplina":"SO20181",
